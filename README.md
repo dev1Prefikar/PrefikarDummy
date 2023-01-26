@@ -4,3 +4,4 @@ DEMO Github :
 3- Un merge avec la branche Devlope donne lieu a un Pull Request a valider par un reviewer. 
 4- Rajouter le maximum de commentaire sur les classes
 5- Respecter les regles de naming sur les variables. 
+6- Respecter les naming convention sur les branches Fearure/Jira-XXX
